@@ -88,7 +88,7 @@ Incorporate machine learning for anomaly detection or clustering.
 
 Author
 
-Your Name: Hamdaan Peshimam
+Name: Hamdaan Peshimam
 
 GitHub: Hamdaan-P
 
@@ -98,4 +98,5 @@ Email: phamdaan@gmail.com
 
 
 Feel free to fork, star, or contribute! If you have questions or suggestions, open an issue.
+
 
