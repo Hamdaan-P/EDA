@@ -40,8 +40,10 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Personal_Loan_Modeling_EDA.git
-   cd Personal_Loan_Modeling_EDA
+git clone https://github.com/Hamdaan-P/EDA.git
+cd EDA
+cd "Personal Loan Modeling EDA"
+
 Install dependencies:
 
 bash
@@ -77,3 +79,4 @@ Hamdaan P
 🔗 LinkedIn https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
 
 🔗 GitHub https://github.com/Hamdaan-P
+
