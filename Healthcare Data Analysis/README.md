@@ -25,6 +25,7 @@ The objective of this project is to:
 ---
 
 ## 📁 Repository Structure
+
 Healthcare_Data_Analysis/
 │
 ├── Healthcare_Data_Analysis.ipynb # Main Jupyter Notebook
@@ -84,6 +85,9 @@ Add SQL-based exploratory queries for deeper relational insights
 🧑‍💻 Author
 Hamdaan P
 📍 Aspiring Data Analyst | Healthcare Analytics Enthusiast
+
 🔗 LinkedIn- https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
 
+
 🔗 GitHub- https://github.com/Hamdaan-P
+
