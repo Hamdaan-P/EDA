@@ -73,5 +73,7 @@ Deploy interactive dashboards in Power BI or Streamlit
 🧑‍💻 Author
 Hamdaan P
 📍 Aspiring Data Analyst | Data Science Enthusiast
-🔗 LinkedIn
-🔗 GitHub
+
+🔗 LinkedIn https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
+
+🔗 GitHub https://github.com/Hamdaan-P
