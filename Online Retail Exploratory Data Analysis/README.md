@@ -1,4 +1,5 @@
 Project Overview
+
 This repository contains an Exploratory Data Analysis (EDA) project on the Online Retail II dataset. The analysis explores transactional data from an online retail store spanning December 2009 to December 2011. It covers data cleaning, feature engineering, visualizations, and insights into sales trends, customer behavior, and product performance.
 This project is part of my Data Science portfolio, showcasing skills in data manipulation, visualization, and deriving actionable insights using Python.
 Objectives
@@ -44,6 +45,7 @@ Download the dataset (online_retail_II.xlsx) and place it in the project root. T
 Usage
 
 Open the Jupyter Notebook:
+
 jupyter notebook Online_Retail.ipynb
 
 Run the cells sequentially. The notebook includes:
@@ -87,9 +89,13 @@ Incorporate machine learning for anomaly detection or clustering.
 Author
 
 Your Name: Hamdaan Peshimam
+
 GitHub: Hamdaan-P
+
 LinkedIn: https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
+
 Email: phamdaan@gmail.com
 
 
 Feel free to fork, star, or contribute! If you have questions or suggestions, open an issue.
+
