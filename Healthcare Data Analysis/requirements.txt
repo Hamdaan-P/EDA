@@ -1,0 +1,11 @@
+# Core data analysis libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization libraries
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter and environment tools (optional but recommended)
+notebook==7.2.1
+ipython==8.27.0
