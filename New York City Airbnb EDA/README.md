@@ -49,8 +49,8 @@ To run this project locally, you will need **Python 3.7+** installed. The follow
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
-    cd [Your Repository Name]
+    git clone https://github.com/Hamdaan-P/EDA.git
+    cd EDA
     ```
 2.  **Install the dependencies:**
     ```bash
@@ -60,4 +60,5 @@ To run this project locally, you will need **Python 3.7+** installed. The follow
     Open the Jupyter Notebook and execute the cells:
     ```bash
     jupyter notebook New_York_City_Airbnb_EDA.ipynb
+
     ```
