@@ -83,13 +83,13 @@ Implement RFM (Recency, Frequency, Monetary) analysis for customer segmentation.
 Build predictive models (e.g., sales forecasting using time series).
 Incorporate machine learning for anomaly detection or clustering.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 Author
 
 Your Name: Hamdaan Peshimam
 GitHub: Hamdaan-P
 LinkedIn: https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
 Email: phamdaan@gmail.com
+
 
 Feel free to fork, star, or contribute! If you have questions or suggestions, open an issue.
