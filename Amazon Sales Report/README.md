@@ -36,8 +36,8 @@ You need Python installed on your system. It's highly recommended to use a virtu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR-REPO-LINK]
-    cd [YOUR-REPO-NAME]
+    git clone https://github.com/Hamdaan-P/EDA.git
+    cd EDA
     ```
 
 2.  **Create and activate a virtual environment (optional but recommended):**
@@ -66,5 +66,6 @@ You need Python installed on your system. It's highly recommended to use a virtu
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests for improvements, additional analyses, or alternative visualizations.
+
 
 ---
