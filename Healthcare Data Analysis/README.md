@@ -40,8 +40,11 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Healthcare_Data_Analysis.git
-   cd Healthcare_Data_Analysis
+cd EDA
+cd "Healthcare Data Analysis"
+pip install -r requirements.txt
+jupyter notebook
+
 Install dependencies:
 
 bash
@@ -82,4 +85,5 @@ Add SQL-based exploratory queries for deeper relational insights
 Hamdaan P
 📍 Aspiring Data Analyst | Healthcare Analytics Enthusiast
 🔗 LinkedIn- https://www.linkedin.com/in/hamdaan-peshimam-547394ba/
+
 🔗 GitHub- https://github.com/Hamdaan-P
