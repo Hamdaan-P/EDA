@@ -1,3 +1,16 @@
+<!-- Add to your project README.md, right at the top! -->
+
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue?logo=python)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/power--bi-dashboard-yellow?logo=powerbi)]
+[![Jupyter](https://img.shields.io/badge/jupyter-notebooks-orange?logo=jupyter)]
+[![SQL](https://img.shields.io/badge/sql-database-blue?logo=sqlite)]
+[![Kaggle Dataset](https://img.shields.io/badge/kaggle-dataset-brightgreen?logo=kaggle)](https://www.kaggle.com/)
+[![Stars](https://img.shields.io/github/stars/Hamdaan-P/ML-Repo?style=social)](https://github.com/Hamdaan-P/ML-Repo/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/Hamdaan-P/ML-Repo/total.svg)](https://github.com/Hamdaan-P/ML-Repo)
+
+
+
+
 # EDA
 EDA Portfolio: Data Analyst Projects
 
