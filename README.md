@@ -71,3 +71,6 @@ Analyzed loan application data to identify patterns in loan approval, default ri
 - Segmented customers for targeted loan products
 
 **Deliverables:** Risk assessment models, customer profiles, and strategic recommendations for loan portfolio management.
+
+## License
+This project is licensed under the [MIT License](LICENSE)
